@@ -1,0 +1,61 @@
+.card {
+    margin: 10px;
+    width: 300px;
+
+    display: inline-block;
+    vertical-align: top;
+    background-image: url("https://i.pinimg.com/originals/0c/6c/00/0c6c00b57d89daa32c53c037a924689f.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.card img {
+    max-width: 250px;
+    border-radius: 2px;
+} 
+
+.card p {
+    margin: 0 5px;
+    padding: 5px;
+    text-align: left;
+}
+
+.title {
+    margin: 17px 22px 0px 24px;
+    padding: 5px;
+    text-align: left;
+}
+
+.title h4 {
+    display: inline-block;
+    margin: 0;
+}
+
+.manaImg {
+    float: right;
+    max-height: 22px;
+    margin-top: 2px;
+}
+
+.cardtype {
+    margin: -10px 24px 0px 22px;
+    margin-bottom: 0;
+    text-align: left;
+}
+
+.cardtype p {
+    display: inline-block;
+    margin: 0;
+}
+
+.expansion {
+    float: right;
+    padding-top: 5px;
+}
+
+.textbox {
+    min-height: 200px;
+    max-height: 200px;
+    font-size: 10px;
+    margin: 0px 25px;
+}
